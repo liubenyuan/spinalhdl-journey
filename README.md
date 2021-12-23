@@ -1,1 +1,2 @@
-# spinalhdl-journey
+# Learning SpinalHDL
+
